@@ -1,0 +1,50 @@
+[Sun Apr 06 21:34:47.613890 2025] [core:alert] [pid 1907300] [client 192.168.12.231:58742] /srv/users/xtfefzip/ebnakzr-m5/.htaccess: RewriteEngine must be On or Off, referer: http://wsr.ru/
+[Sun Apr 06 21:34:47.694871 2025] [core:alert] [pid 1907301] [client 192.168.12.231:58743] /srv/users/xtfefzip/ebnakzr-m5/.htaccess: RewriteEngine must be On or Off, referer: http://ebnakzr-m5.wsr.ru/
+[Sun Apr 06 21:35:56.101681 2025] [core:alert] [pid 1907325] [client 192.168.12.231:59111] /srv/users/xtfefzip/ebnakzr-m5/.htaccess: RewriteEngine must be On or Off
+[Sun Apr 06 21:35:56.261942 2025] [core:alert] [pid 1907326] [client 192.168.12.231:59112] /srv/users/xtfefzip/ebnakzr-m5/.htaccess: RewriteEngine must be On or Off, referer: http://ebnakzr-m5.wsr.ru/go
+[Sun Apr 06 21:36:03.084744 2025] [core:alert] [pid 1908039] [client 192.168.12.231:59122] /srv/users/xtfefzip/ebnakzr-m5/.htaccess: RewriteEngine must be On or Off
+[Sun Apr 06 21:36:03.236798 2025] [core:alert] [pid 1908113] [client 192.168.12.231:59123] /srv/users/xtfefzip/ebnakzr-m5/.htaccess: RewriteEngine must be On or Off, referer: http://ebnakzr-m5.wsr.ru/hello
+[Sun Apr 06 21:36:46.755519 2025] [core:alert] [pid 1909368] [client 192.168.12.231:59259] /srv/users/xtfefzip/ebnakzr-m5/.htaccess: RewriteEngine must be On or Off
+[Sun Apr 06 21:36:46.893994 2025] [core:alert] [pid 1909369] [client 192.168.12.231:59261] /srv/users/xtfefzip/ebnakzr-m5/.htaccess: RewriteEngine must be On or Off, referer: http://ebnakzr-m5.wsr.ru/hello
+[Sun Apr 06 21:40:20.332000 2025] [core:alert] [pid 1913469] [client 192.168.12.231:59720] /srv/users/xtfefzip/ebnakzr-m5/.htaccess: RewriteEngine must be On or Off
+[Sun Apr 06 21:40:20.379765 2025] [core:alert] [pid 1913470] [client 192.168.12.231:59721] /srv/users/xtfefzip/ebnakzr-m5/.htaccess: RewriteEngine must be On or Off, referer: http://ebnakzr-m5.wsr.ru/hello
+[Sun Apr 06 21:40:20.998927 2025] [core:alert] [pid 1913471] [client 192.168.12.231:59723] /srv/users/xtfefzip/ebnakzr-m5/.htaccess: RewriteEngine must be On or Off
+[Sun Apr 06 21:40:21.036141 2025] [core:alert] [pid 1913472] [client 192.168.12.231:59724] /srv/users/xtfefzip/ebnakzr-m5/.htaccess: RewriteEngine must be On or Off, referer: http://ebnakzr-m5.wsr.ru/hello
+[Sun Apr 06 21:40:21.225750 2025] [core:alert] [pid 1913473] [client 192.168.12.231:59725] /srv/users/xtfefzip/ebnakzr-m5/.htaccess: RewriteEngine must be On or Off
+[Sun Apr 06 21:40:21.258084 2025] [core:alert] [pid 1913474] [client 192.168.12.231:59726] /srv/users/xtfefzip/ebnakzr-m5/.htaccess: RewriteEngine must be On or Off, referer: http://ebnakzr-m5.wsr.ru/hello
+[Sun Apr 06 21:40:21.452714 2025] [core:alert] [pid 1913475] [client 192.168.12.231:59727] /srv/users/xtfefzip/ebnakzr-m5/.htaccess: RewriteEngine must be On or Off
+[Sun Apr 06 21:40:21.550624 2025] [core:alert] [pid 1913476] [client 192.168.12.231:59728] /srv/users/xtfefzip/ebnakzr-m5/.htaccess: RewriteEngine must be On or Off, referer: http://ebnakzr-m5.wsr.ru/hello
+[Sun Apr 06 21:40:21.646079 2025] [core:alert] [pid 1913477] [client 192.168.12.231:59729] /srv/users/xtfefzip/ebnakzr-m5/.htaccess: RewriteEngine must be On or Off
+[Sun Apr 06 21:40:21.743542 2025] [core:alert] [pid 1913478] [client 192.168.12.231:59730] /srv/users/xtfefzip/ebnakzr-m5/.htaccess: RewriteEngine must be On or Off, referer: http://ebnakzr-m5.wsr.ru/hello
+[Sun Apr 06 21:41:06.139709 2025] [core:alert] [pid 1913489] [client 192.168.12.231:59760] /srv/users/xtfefzip/ebnakzr-m5/.htaccess: RewriteEngine must be On or Off
+[Sun Apr 06 21:41:06.171148 2025] [core:alert] [pid 1913490] [client 192.168.12.231:59761] /srv/users/xtfefzip/ebnakzr-m5/.htaccess: RewriteEngine must be On or Off, referer: http://ebnakzr-m5.wsr.ru/hello
+[Sun Apr 06 21:41:06.916115 2025] [core:alert] [pid 1913491] [client 192.168.12.231:59762] /srv/users/xtfefzip/ebnakzr-m5/.htaccess: RewriteEngine must be On or Off
+[Sun Apr 06 21:41:06.946756 2025] [core:alert] [pid 1913492] [client 192.168.12.231:59763] /srv/users/xtfefzip/ebnakzr-m5/.htaccess: RewriteEngine must be On or Off, referer: http://ebnakzr-m5.wsr.ru/hello
+[Sun Apr 06 21:41:07.084765 2025] [core:alert] [pid 1913493] [client 192.168.12.231:59764] /srv/users/xtfefzip/ebnakzr-m5/.htaccess: RewriteEngine must be On or Off
+[Sun Apr 06 21:41:07.123809 2025] [core:alert] [pid 1913494] [client 192.168.12.231:59765] /srv/users/xtfefzip/ebnakzr-m5/.htaccess: RewriteEngine must be On or Off, referer: http://ebnakzr-m5.wsr.ru/hello
+[Sun Apr 06 21:41:07.435009 2025] [core:alert] [pid 1913495] [client 192.168.12.231:59768] /srv/users/xtfefzip/ebnakzr-m5/.htaccess: RewriteEngine must be On or Off
+[Sun Apr 06 21:41:07.484481 2025] [core:alert] [pid 1913496] [client 192.168.12.231:59770] /srv/users/xtfefzip/ebnakzr-m5/.htaccess: RewriteEngine must be On or Off, referer: http://ebnakzr-m5.wsr.ru/hello
+[Sun Apr 06 21:41:07.507501 2025] [core:alert] [pid 1913497] [client 192.168.12.231:59771] /srv/users/xtfefzip/ebnakzr-m5/.htaccess: RewriteEngine must be On or Off
+[Sun Apr 06 21:41:07.574035 2025] [core:alert] [pid 1913498] [client 192.168.12.231:59772] /srv/users/xtfefzip/ebnakzr-m5/.htaccess: RewriteEngine must be On or Off, referer: http://ebnakzr-m5.wsr.ru/hello
+[Sun Apr 06 21:41:22.549586 2025] [core:alert] [pid 1913500] [client 192.168.12.231:59785] /srv/users/xtfefzip/ebnakzr-m5/.htaccess: RewriteEngine must be On or Off, referer: http://wsr.ru/
+[Sun Apr 06 21:41:22.598127 2025] [core:alert] [pid 1913501] [client 192.168.12.231:59786] /srv/users/xtfefzip/ebnakzr-m5/.htaccess: RewriteEngine must be On or Off, referer: http://ebnakzr-m5.wsr.ru/
+[Sun Apr 06 21:43:19.308269 2025] [core:alert] [pid 1915525] [client 192.168.12.231:59863] /srv/users/xtfefzip/ebnakzr-m5/.htaccess: RewriteEngine must be On or Off, referer: http://wsr.ru/
+[Sun Apr 06 21:43:19.376300 2025] [core:alert] [pid 1915526] [client 192.168.12.231:59864] /srv/users/xtfefzip/ebnakzr-m5/.htaccess: RewriteEngine must be On or Off, referer: http://ebnakzr-m5.wsr.ru/
+[Sun Apr 06 21:43:19.998902 2025] [core:alert] [pid 1915528] [client 192.168.12.231:59867] /srv/users/xtfefzip/ebnakzr-m5/.htaccess: RewriteEngine must be On or Off, referer: http://wsr.ru/
+[Sun Apr 06 21:43:20.155816 2025] [core:alert] [pid 1915529] [client 192.168.12.231:59868] /srv/users/xtfefzip/ebnakzr-m5/.htaccess: RewriteEngine must be On or Off, referer: http://ebnakzr-m5.wsr.ru/
+[Sun Apr 06 21:44:59.375884 2025] [core:alert] [pid 1917493] [client 192.168.12.231:59959] /srv/users/xtfefzip/ebnakzr-m5/.htaccess: RewriteEngine must be On or Off, referer: http://wsr.ru/
+[Sun Apr 06 21:44:59.445073 2025] [core:alert] [pid 1917494] [client 192.168.12.231:59960] /srv/users/xtfefzip/ebnakzr-m5/.htaccess: RewriteEngine must be On or Off, referer: http://ebnakzr-m5.wsr.ru/
+[Sun Apr 06 21:44:59.697469 2025] [core:alert] [pid 1917495] [client 192.168.12.231:59961] /srv/users/xtfefzip/ebnakzr-m5/.htaccess: RewriteEngine must be On or Off, referer: http://wsr.ru/
+[Sun Apr 06 21:44:59.755321 2025] [core:alert] [pid 1917496] [client 192.168.12.231:59962] /srv/users/xtfefzip/ebnakzr-m5/.htaccess: RewriteEngine must be On or Off, referer: http://ebnakzr-m5.wsr.ru/
+[Sun Apr 06 21:45:00.033620 2025] [core:alert] [pid 1917497] [client 192.168.12.231:59964] /srv/users/xtfefzip/ebnakzr-m5/.htaccess: RewriteEngine must be On or Off, referer: http://wsr.ru/
+[Sun Apr 06 21:45:00.075175 2025] [core:alert] [pid 1917498] [client 192.168.12.231:59965] /srv/users/xtfefzip/ebnakzr-m5/.htaccess: RewriteEngine must be On or Off, referer: http://ebnakzr-m5.wsr.ru/
+[Sun Apr 06 21:45:11.824766 2025] [core:alert] [pid 1918454] [client 192.168.12.231:59973] /srv/users/xtfefzip/ebnakzr-m5/.htaccess: RewriteEngine must be On or Off, referer: http://wsr.ru/
+[Sun Apr 06 21:45:12.119093 2025] [core:alert] [pid 1918470] [client 192.168.12.231:59974] /srv/users/xtfefzip/ebnakzr-m5/.htaccess: RewriteEngine must be On or Off, referer: http://ebnakzr-m5.wsr.ru/
+[Sun Apr 06 21:45:12.492292 2025] [core:alert] [pid 1918471] [client 192.168.12.231:59975] /srv/users/xtfefzip/ebnakzr-m5/.htaccess: RewriteEngine must be On or Off, referer: http://wsr.ru/
+[Sun Apr 06 21:45:13.026364 2025] [core:alert] [pid 1918487] [client 192.168.12.231:59978] /srv/users/xtfefzip/ebnakzr-m5/.htaccess: RewriteEngine must be On or Off, referer: http://ebnakzr-m5.wsr.ru/
+[Sun Apr 06 21:46:00.879966 2025] [core:alert] [pid 1919391] [client 192.168.12.231:59979] /srv/users/xtfefzip/ebnakzr-m5/.htaccess: RewriteEngine must be On or Off, referer: http://wsr.ru/
+[Sun Apr 06 21:46:01.122647 2025] [core:alert] [pid 1920459] [client 192.168.12.231:1035] /srv/users/xtfefzip/ebnakzr-m5/.htaccess: RewriteEngine must be On or Off, referer: http://ebnakzr-m5.wsr.ru/
+[Sun Apr 06 21:46:01.510012 2025] [core:alert] [pid 1920589] [client 192.168.12.231:1036] /srv/users/xtfefzip/ebnakzr-m5/.htaccess: RewriteEngine must be On or Off, referer: http://wsr.ru/
+[Sun Apr 06 21:46:01.908495 2025] [core:alert] [pid 1920735] [client 192.168.12.231:1037] /srv/users/xtfefzip/ebnakzr-m5/.htaccess: RewriteEngine must be On or Off, referer: http://ebnakzr-m5.wsr.ru/
+[Sun Apr 06 21:47:03.419182 2025] [core:alert] [pid 1923440] [client 192.168.12.231:1079] /srv/users/xtfefzip/ebnakzr-m5/.htaccess: RewriteEngine must be On or Off, referer: http://wsr.ru/
+[Sun Apr 06 21:47:03.512797 2025] [core:alert] [pid 1923441] [client 192.168.12.231:1080] /srv/users/xtfefzip/ebnakzr-m5/.htaccess: RewriteEngine must be On or Off, referer: http://ebnakzr-m5.wsr.ru/
